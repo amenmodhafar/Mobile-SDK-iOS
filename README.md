@@ -67,7 +67,7 @@ One of DJI's aircraft or handheld cameras will be required to run the sample app
 Starting from DJI iOS SDK 4.7, we have replaced the **VideoPreviewer** with **DJIWidget** for video decoding. Please add the following line to your Podfile to install it to your Xcode project:
 
 ~~~
-pod 'DJIWidget', '~> 1.6.3'
+
 ~~~
 
 ## Development Workflow 

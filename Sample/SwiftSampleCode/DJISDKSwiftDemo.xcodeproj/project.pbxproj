@@ -7,39 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F0FC85D21EDC06100D1C635 /* VideoPreviewerAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0FC85C21EDC06100D1C635 /* VideoPreviewerAdapter.swift */; };
-		2F0FC85F21EDC81C00D1C635 /* CameraFPVViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0FC85E21EDC81C00D1C635 /* CameraFPVViewController.swift */; };
-		2F0FC86C21EE058900D1C635 /* libDJIWidget.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F0FC86B21EE058900D1C635 /* libDJIWidget.a */; };
-		2F0FC86E21EE1D0300D1C635 /* DecodeImageCalibrateLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F0FC86D21EE1D0300D1C635 /* DecodeImageCalibrateLogic.swift */; };
 		2F0FC87921F06D9B00D1C635 /* DistortionResource.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 2F0FC87821F06D9B00D1C635 /* DistortionResource.bundle */; };
 		51AAFCD221FEB35900742997 /* DJIAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51AAFCD121FEB35900742997 /* DJIAlert.swift */; };
 		A1557083AB906DC1A214AFDB /* libPods-DJISDKSwiftDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7E8DEF306B5A65A27249FC8 /* libPods-DJISDKSwiftDemo.a */; };
-		A402788320AD473E0072809B /* FlightHubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A402788220AD473E0072809B /* FlightHubViewController.swift */; };
 		A47868D7209AC6DA00DBC666 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868C5209AC6DA00DBC666 /* AppDelegate.swift */; };
 		A47868D8209AC6DA00DBC666 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A47868C6209AC6DA00DBC666 /* Assets.xcassets */; };
 		A47868D9209AC6DA00DBC666 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A47868C7209AC6DA00DBC666 /* LaunchScreen.storyboard */; };
 		A47868DA209AC6DA00DBC666 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A47868C9209AC6DA00DBC666 /* Main.storyboard */; };
 		A47868DB209AC6DA00DBC666 /* BluetoothConnectorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868CB209AC6DA00DBC666 /* BluetoothConnectorViewController.swift */; };
 		A47868DD209AC6DA00DBC666 /* KeyedInterfaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868CE209AC6DA00DBC666 /* KeyedInterfaceViewController.swift */; };
-		A47868DE209AC6DA00DBC666 /* TimelineElementCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868D0209AC6DA00DBC666 /* TimelineElementCollectionViewCell.swift */; };
-		A47868DF209AC6DA00DBC666 /* TimelineMissionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868D1209AC6DA00DBC666 /* TimelineMissionViewController.swift */; };
 		A47868E0209AC6DA00DBC666 /* ProductCommunicationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868D3209AC6DA00DBC666 /* ProductCommunicationManager.swift */; };
 		A47868E1209AC6DA00DBC666 /* StartupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868D4209AC6DA00DBC666 /* StartupViewController.swift */; };
 		A47868E2209AC6DA00DBC666 /* DJIImageAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = A47868D6209AC6DA00DBC666 /* DJIImageAnnotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		128ABACC526C7880A0AB3F06 /* Pods-DJISDKSwiftDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DJISDKSwiftDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-DJISDKSwiftDemo/Pods-DJISDKSwiftDemo.release.xcconfig"; sourceTree = "<group>"; };
-		2F0FC85C21EDC06100D1C635 /* VideoPreviewerAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPreviewerAdapter.swift; sourceTree = "<group>"; };
-		2F0FC85E21EDC81C00D1C635 /* CameraFPVViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraFPVViewController.swift; sourceTree = "<group>"; };
-		2F0FC86A21EDFFEE00D1C635 /* DJIWidget-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DJIWidget-Bridging-Header.h"; sourceTree = "<group>"; };
-		2F0FC86B21EE058900D1C635 /* libDJIWidget.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libDJIWidget.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F0FC86D21EE1D0300D1C635 /* DecodeImageCalibrateLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodeImageCalibrateLogic.swift; sourceTree = "<group>"; };
+		260648AA6953559675D645B4 /* Pods-DJISDKSwiftDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DJISDKSwiftDemo.release.xcconfig"; path = "Target Support Files/Pods-DJISDKSwiftDemo/Pods-DJISDKSwiftDemo.release.xcconfig"; sourceTree = "<group>"; };
 		2F0FC87821F06D9B00D1C635 /* DistortionResource.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DistortionResource.bundle; sourceTree = "<group>"; };
-		4B0C6B02B8D1383630F1B67E /* Pods-DJISDKSwiftDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DJISDKSwiftDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DJISDKSwiftDemo/Pods-DJISDKSwiftDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		51AAFCD121FEB35900742997 /* DJIAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DJIAlert.swift; sourceTree = "<group>"; };
-		86985CC91E834EC200577EC7 /* DJISDKSwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DJISDKSwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A402788220AD473E0072809B /* FlightHubViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlightHubViewController.swift; sourceTree = "<group>"; };
+		86985CC91E834EC200577EC7 /* Tuna.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tuna.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A47868C5209AC6DA00DBC666 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A47868C6209AC6DA00DBC666 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A47868C8209AC6DA00DBC666 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,12 +33,11 @@
 		A47868CB209AC6DA00DBC666 /* BluetoothConnectorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BluetoothConnectorViewController.swift; sourceTree = "<group>"; };
 		A47868CC209AC6DA00DBC666 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A47868CE209AC6DA00DBC666 /* KeyedInterfaceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyedInterfaceViewController.swift; sourceTree = "<group>"; };
-		A47868D0209AC6DA00DBC666 /* TimelineElementCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineElementCollectionViewCell.swift; sourceTree = "<group>"; };
-		A47868D1209AC6DA00DBC666 /* TimelineMissionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineMissionViewController.swift; sourceTree = "<group>"; };
 		A47868D3209AC6DA00DBC666 /* ProductCommunicationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductCommunicationManager.swift; sourceTree = "<group>"; };
 		A47868D4209AC6DA00DBC666 /* StartupViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartupViewController.swift; sourceTree = "<group>"; };
 		A47868D6209AC6DA00DBC666 /* DJIImageAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DJIImageAnnotation.swift; sourceTree = "<group>"; };
 		A7E8DEF306B5A65A27249FC8 /* libPods-DJISDKSwiftDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DJISDKSwiftDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B716D0A4194DA53CFFCE2FAE /* Pods-DJISDKSwiftDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DJISDKSwiftDemo.debug.xcconfig"; path = "Target Support Files/Pods-DJISDKSwiftDemo/Pods-DJISDKSwiftDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +45,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F0FC86C21EE058900D1C635 /* libDJIWidget.a in Frameworks */,
 				A1557083AB906DC1A214AFDB /* libPods-DJISDKSwiftDemo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -71,28 +55,18 @@
 		0B6F263FBC093B7B6FB6EF51 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2F0FC86B21EE058900D1C635 /* libDJIWidget.a */,
 				A7E8DEF306B5A65A27249FC8 /* libPods-DJISDKSwiftDemo.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		2F0FC85A21EDBB0B00D1C635 /* Camera */ = {
+		1C8A0A9D04725EF9AC026ACB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				2F0FC85C21EDC06100D1C635 /* VideoPreviewerAdapter.swift */,
-				2F0FC86D21EE1D0300D1C635 /* DecodeImageCalibrateLogic.swift */,
-				2F0FC85B21EDBB1600D1C635 /* fpv */,
+				B716D0A4194DA53CFFCE2FAE /* Pods-DJISDKSwiftDemo.debug.xcconfig */,
+				260648AA6953559675D645B4 /* Pods-DJISDKSwiftDemo.release.xcconfig */,
 			);
-			path = Camera;
-			sourceTree = "<group>";
-		};
-		2F0FC85B21EDBB1600D1C635 /* fpv */ = {
-			isa = PBXGroup;
-			children = (
-				2F0FC85E21EDC81C00D1C635 /* CameraFPVViewController.swift */,
-			);
-			path = fpv;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		86985CC01E834EC200577EC7 = {
@@ -100,25 +74,17 @@
 			children = (
 				A47868C4209AC6DA00DBC666 /* DJISDKSwiftDemo */,
 				86985CCA1E834EC200577EC7 /* Products */,
-				C0C7419B2667BCEE0BB6C689 /* Pods */,
 				0B6F263FBC093B7B6FB6EF51 /* Frameworks */,
+				1C8A0A9D04725EF9AC026ACB /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
 		86985CCA1E834EC200577EC7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				86985CC91E834EC200577EC7 /* DJISDKSwiftDemo.app */,
+				86985CC91E834EC200577EC7 /* Tuna.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		A402788120AD473E0072809B /* FlightHub */ = {
-			isa = PBXGroup;
-			children = (
-				A402788220AD473E0072809B /* FlightHubViewController.swift */,
-			);
-			path = FlightHub;
 			sourceTree = "<group>";
 		};
 		A47868C4209AC6DA00DBC666 /* DJISDKSwiftDemo */ = {
@@ -131,12 +97,8 @@
 				A47868C5209AC6DA00DBC666 /* AppDelegate.swift */,
 				A47868CB209AC6DA00DBC666 /* BluetoothConnectorViewController.swift */,
 				A47868D4209AC6DA00DBC666 /* StartupViewController.swift */,
-				2F0FC86A21EDFFEE00D1C635 /* DJIWidget-Bridging-Header.h */,
 				A47868CC209AC6DA00DBC666 /* Info.plist */,
-				A402788120AD473E0072809B /* FlightHub */,
-				2F0FC85A21EDBB0B00D1C635 /* Camera */,
 				A47868CD209AC6DA00DBC666 /* KeyedInterfaces */,
-				A47868CF209AC6DA00DBC666 /* Missions */,
 				A47868D2209AC6DA00DBC666 /* Services */,
 				A47868D5209AC6DA00DBC666 /* UIObjects */,
 			);
@@ -149,15 +111,6 @@
 				A47868CE209AC6DA00DBC666 /* KeyedInterfaceViewController.swift */,
 			);
 			path = KeyedInterfaces;
-			sourceTree = "<group>";
-		};
-		A47868CF209AC6DA00DBC666 /* Missions */ = {
-			isa = PBXGroup;
-			children = (
-				A47868D0209AC6DA00DBC666 /* TimelineElementCollectionViewCell.swift */,
-				A47868D1209AC6DA00DBC666 /* TimelineMissionViewController.swift */,
-			);
-			path = Missions;
 			sourceTree = "<group>";
 		};
 		A47868D2209AC6DA00DBC666 /* Services */ = {
@@ -175,15 +128,6 @@
 				51AAFCD121FEB35900742997 /* DJIAlert.swift */,
 			);
 			path = UIObjects;
-			sourceTree = "<group>";
-		};
-		C0C7419B2667BCEE0BB6C689 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				4B0C6B02B8D1383630F1B67E /* Pods-DJISDKSwiftDemo.debug.xcconfig */,
-				128ABACC526C7880A0AB3F06 /* Pods-DJISDKSwiftDemo.release.xcconfig */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -206,7 +150,7 @@
 			);
 			name = DJISDKSwiftDemo;
 			productName = "SDK Swift Sample";
-			productReference = 86985CC91E834EC200577EC7 /* DJISDKSwiftDemo.app */;
+			productReference = 86985CC91E834EC200577EC7 /* Tuna.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -216,12 +160,12 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
-				LastUpgradeCheck = 0820;
+				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = DJI;
 				TargetAttributes = {
 					86985CC81E834EC200577EC7 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 7UL3LRJL93;
+						DevelopmentTeam = 8NH9GVSWW5;
 						LastSwiftMigration = 1030;
 						ProvisioningStyle = Automatic;
 					};
@@ -229,10 +173,9 @@
 			};
 			buildConfigurationList = 86985CC41E834EC200577EC7 /* Build configuration list for PBXProject "DJISDKSwiftDemo" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 			);
@@ -325,18 +268,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				A47868E2209AC6DA00DBC666 /* DJIImageAnnotation.swift in Sources */,
-				2F0FC85D21EDC06100D1C635 /* VideoPreviewerAdapter.swift in Sources */,
 				A47868E0209AC6DA00DBC666 /* ProductCommunicationManager.swift in Sources */,
-				A402788320AD473E0072809B /* FlightHubViewController.swift in Sources */,
 				A47868D7209AC6DA00DBC666 /* AppDelegate.swift in Sources */,
 				A47868E1209AC6DA00DBC666 /* StartupViewController.swift in Sources */,
 				A47868DB209AC6DA00DBC666 /* BluetoothConnectorViewController.swift in Sources */,
 				51AAFCD221FEB35900742997 /* DJIAlert.swift in Sources */,
-				A47868DE209AC6DA00DBC666 /* TimelineElementCollectionViewCell.swift in Sources */,
 				A47868DD209AC6DA00DBC666 /* KeyedInterfaceViewController.swift in Sources */,
-				A47868DF209AC6DA00DBC666 /* TimelineMissionViewController.swift in Sources */,
-				2F0FC86E21EE1D0300D1C635 /* DecodeImageCalibrateLogic.swift in Sources */,
-				2F0FC85F21EDC81C00D1C635 /* CameraFPVViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,15 +309,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -404,7 +349,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -425,15 +370,23 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -451,7 +404,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -463,11 +416,11 @@
 		};
 		86985CDE1E834EC200577EC7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4B0C6B02B8D1383630F1B67E /* Pods-DJISDKSwiftDemo.debug.xcconfig */;
+			baseConfigurationReference = B716D0A4194DA53CFFCE2FAE /* Pods-DJISDKSwiftDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
-				DEVELOPMENT_TEAM = 7UL3LRJL93;
+				DEVELOPMENT_TEAM = 8NH9GVSWW5;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -478,22 +431,24 @@
 				INFOPLIST_FILE = "$(SRCROOT)/DJISDKSwiftDemo/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				"LD_RUNPATH_SEARCH_PATHS[arch=*]" = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.dji.swiftSampleDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.dji.sdk.tunaiOS;
+				PRODUCT_NAME = Tuna;
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/DJISDKSwiftDemo/DJIWidget-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VALID_ARCHS = "arm64 arm64e armv7s";
+				"VALID_ARCHS[sdk=iphoneos*]" = "arm64 arm64e armv7s";
 			};
 			name = Debug;
 		};
 		86985CDF1E834EC200577EC7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 128ABACC526C7880A0AB3F06 /* Pods-DJISDKSwiftDemo.release.xcconfig */;
+			baseConfigurationReference = 260648AA6953559675D645B4 /* Pods-DJISDKSwiftDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES = YES;
-				DEVELOPMENT_TEAM = 7UL3LRJL93;
+				DEVELOPMENT_TEAM = 8NH9GVSWW5;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -505,8 +460,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.dji.swiftSampleDemo;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.dji.sdk.tunaiOS;
+				PRODUCT_NAME = Tuna;
 				SWIFT_OBJC_BRIDGING_HEADER = "$(SRCROOT)/DJISDKSwiftDemo/DJIWidget-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				VALID_ARCHS = "arm64 arm64e armv7s";
